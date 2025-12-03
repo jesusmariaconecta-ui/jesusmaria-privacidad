@@ -1,90 +1,48 @@
+respaldo aviso de privacidad
+
 <!doctype html>
 <html lang="es-MX">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>Aviso de Privacidad – Jesús María Conecta</title>
-  <meta name="description" content="Aviso de Privacidad de la aplicación Jesús María Conecta del Municipio de Jesús María, Aguascalientes.">
+  <meta name="description" content="Aviso de Privacidad de la aplicación Jesús María Conecta.">
   <style>
-    body { font-family: system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif; margin:0; padding:24px; line-height:1.6; color:#111; background:#f4f5f7; }
-    main { max-width:880px; margin:0 auto; background:#fff; padding:24px; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,.06); }
-    h1 { font-size:1.8rem; margin-bottom:.5rem; color:#003366; }
-    h2 { font-size:1.2rem; margin-top:1.6rem; color:#003366; }
-    a { color:inherit; text-decoration:underline; }
-    footer { margin-top:2rem; font-size:.9rem; color:#555; }
-    ul { padding-left:1.2rem; }
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin: 0; padding: 24px; line-height: 1.6; color: #111; }
+    main { max-width: 880px; margin: 0 auto; }
+    h1 { font-size: 1.8rem; margin-bottom: 0.5rem; }
+    h2 { font-size: 1.2rem; margin-top: 1.6rem; }
+    a { color: inherit; text-decoration: underline; }
+    footer { margin-top: 2rem; font-size: .9rem; color: #555; }
   </style>
 </head>
 <body>
 <main>
-  <h1>Aviso de Privacidad – Aplicación móvil “Jesús María Conecta”</h1>
+  <h1>Aviso de Privacidad</h1>
+  <p><strong>Municipio de Jesús María, Aguascalientes, México</strong> (en adelante, “el Municipio”), a través de la aplicación <strong>Jesús María Conecta</strong>, es responsable del tratamiento de los datos personales que usted proporciona.</p>
 
-  <p><strong>Municipio de Jesús María, Aguascalientes, México</strong> (en adelante, “el Municipio”), a través de la aplicación móvil <strong>“Jesús María Conecta”</strong> (en adelante, “la App”), es responsable del tratamiento de los datos personales que usted proporciona.</p>
+  <h2>Datos que se recaban</h2>
+  <p>Nombre completo, CURP, correo electrónico, número de teléfono, ubicación y fotografías (cuando usted las adjunta para un reporte).</p>
 
-  <h2>1) Datos personales que recabamos</h2>
+  <h2>Finalidades del tratamiento</h2>
+  <p>Registrar, identificar y dar seguimiento a reportes ciudadanos; brindar atención a servicios públicos; mejorar procesos de gestión y comunicación con la ciudadanía; y cumplir con obligaciones legales aplicables.</p>
+
+  <h2>Uso, almacenamiento y seguridad</h2>
+  <p>Los datos se utilizan exclusivamente para las finalidades anteriores, se almacenan de forma segura en infraestructura institucional y <strong>no se comparten con terceros</strong> sin su consentimiento, salvo las excepciones previstas por la ley.</p>
+
+  <h2>Permisos de la aplicación</h2>
   <ul>
-    <li><strong>Identificación:</strong> nombre completo, CURP.</li>
-    <li><strong>Contacto:</strong> correo electrónico, número de teléfono.</li>
-    <li><strong>Contenido:</strong> fotografías y descripciones asociadas a reportes ciudadanos.</li>
-    <li><strong>Ubicación (si la autoriza):</strong> coordenadas para georreferenciar reportes.</li>
-    <li><strong>Datos técnicos mínimos:</strong> información de dispositivo, sistema operativo, identificadores técnicos e IP, estrictamente para operación, seguridad y estadísticas internas.</li>
+    <li><strong>Cámara y fotos:</strong> únicamente para adjuntar evidencia a los reportes.</li>
+    <li><strong>Ubicación:</strong> únicamente para geolocalizar el lugar del reporte.</li>
   </ul>
 
-  <h2>2) Finalidades del tratamiento</h2>
-  <p><strong>Finalidades primarias (necesarias para el servicio):</strong></p>
-  <ul>
-    <li>Registrar y autenticar usuarios de la App.</li>
-    <li>Crear, enviar y dar seguimiento a reportes ciudadanos.</li>
-    <li>Brindar atención y respuesta a servicios públicos municipales.</li>
-    <li>Comunicarse con usted para fines operativos o de soporte técnico.</li>
-    <li>Cumplir con obligaciones legales aplicables al Municipio.</li>
-  </ul>
+  <h2>Derechos ARCO</h2>
+  <p>Usted puede ejercer sus derechos de acceso, rectificación, cancelación u oposición enviando una solicitud a: <a href="mailto:jesusmariaconecta@gmail.com">jesusmariaconecta@gmail.com</a>.</p>
 
-  <p><strong>Finalidades secundarias (opcionales):</strong></p>
-  <ul>
-    <li>Mejorar continuamente la App y los servicios municipales.</li>
-    <li>Elaborar estadísticas e indicadores de uso.</li>
-    <li>Realizar encuestas de satisfacción y calidad de servicio.</li>
-  </ul>
-  <p>Usted puede oponerse a las finalidades secundarias escribiendo a <a href="mailto:hola@jesusmaria.gob.mx">hola@jesusmaria.gob.mx</a>.</p>
+  <h2>Contacto</h2>
+  <p>Correo: <a href="mailto:jesusmariaconecta@gmail.com">jesusmariaconecta@gmail.com</a></p>
 
-  <h2>3) Permisos y usos dentro de la App</h2>
-  <ul>
-    <li><strong>Cámara:</strong> tomar fotografías para anexarlas a los reportes ciudadanos.</li>
-    <li><strong>Fotos / galería:</strong> adjuntar imágenes almacenadas en su dispositivo.</li>
-    <li><strong>Ubicación (en uso):</strong> asociar el lugar del incidente o reporte a un punto geográfico.</li>
-    <li><strong>Notificaciones push:</strong> enviar avisos sobre el estado de sus reportes u otros comunicados municipales relevantes.</li>
-  </ul>
-  <p>Usted puede administrar estos permisos desde la configuración de su dispositivo.</p>
-
-  <h2>4) Uso, almacenamiento y medidas de seguridad</h2>
-  <p>Los datos se utilizan exclusivamente para las finalidades descritas y se almacenan en infraestructura institucional y/o de proveedores que operan como encargados de tratamiento bajo contratos y medidas de seguridad. Se aplican medidas administrativas, técnicas y físicas para proteger sus datos contra daño, pérdida, alteración, destrucción o uso, acceso o tratamiento no autorizado.</p>
-
-  <h2>5) Transferencias y terceros</h2>
-  <p>Sus datos no se comparten con terceros con fines comerciales. Podrán realizarse transferencias sin consentimiento cuando lo exija la ley o una autoridad competente. Los proveedores tecnológicos (por ejemplo, servicios de alojamiento, notificaciones push o mapas) solo tratan los datos conforme a las instrucciones del Municipio y con medidas de seguridad adecuadas.</p>
-
-  <h2>6) Conservación y eliminación</h2>
-  <p>Los datos personales se conservarán únicamente por el tiempo necesario para cumplir las finalidades señaladas y las disposiciones legales aplicables. Una vez cumplidas, se procederá a la supresión, bloqueo o anonimización de los datos, según corresponda.</p>
-
-  <h2>7) Derechos ARCO y revocación del consentimiento</h2>
-  <p>Usted puede ejercer sus derechos de acceso, rectificación, cancelación y oposición (ARCO), así como revocar su consentimiento para finalidades secundarias, enviando una solicitud a:</p>
-  <p><strong>Correo electrónico:</strong> <a href="mailto:hola@jesusmaria.gob.mx">hola@jesusmaria.gob.mx</a></p>
-  <p>La solicitud deberá incluir su nombre completo, un medio de contacto para responderle y una descripción clara del derecho que desea ejercer. El Municipio responderá dentro de los plazos previstos en la legislación aplicable.</p>
-
-  <h2>8) Menores de edad</h2>
-  <p>La App está destinada a personas mayores de 18 años. Si se detecta el tratamiento de datos personales de menores sin el consentimiento correspondiente, se adoptarán las medidas necesarias para su eliminación.</p>
-
-  <h2>9) Cambios al Aviso de Privacidad</h2>
-  <p>Este Aviso de Privacidad puede actualizarse para reflejar cambios normativos, tecnológicos o de los servicios prestados. La versión vigente estará disponible dentro de la App y en esta página.</p>
-
-  <h2>10) Contacto</h2>
-  <p>Para cualquier duda o comentario relacionado con este Aviso de Privacidad o el tratamiento de sus datos personales, puede comunicarse a:</p>
-  <p><strong>Correo:</strong> <a href="hola@jesusmaria.gob.mx">hola@jesusmaria.gob.mx</a></p>
-
-  <footer>
-    Última actualización: <time datetime="2025-10-20">20 de octubre de 2025</time><br>
-    Este Aviso de Privacidad aplica específicamente a la aplicación móvil <strong>“Jesús María Conecta”</strong> disponible en Google Play y otros canales oficiales del Municipio.
-  </footer>
+  <footer>Última actualización: <time datetime="2025-10-20">20 de octubre de 2025</time></footer>
 </main>
 </body>
 </html>
